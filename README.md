@@ -1,0 +1,2 @@
+# zawasiteWordpressTheme
+zawasite.comのメインテーマリポジトリです。
